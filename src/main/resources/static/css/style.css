@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+#all_notes {
+	border:3px solid black;
+	width:400px;
+	padding:50px;
+}
+
+.notes textarea {
+	width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #efceb8;
+    resize: none;
+}
+
+.notes input[type=text] {
+    border: 2px solid grey;s
+    border-radius: 4px;
+}
